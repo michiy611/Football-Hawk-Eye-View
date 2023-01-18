@@ -27,6 +27,3 @@ python main.py
 3. Perspective Transfom モジュールを使用して、射影変換行列を生成
 4. 射影変換行列を用いて、検出した選手とボールの座標を上から見た座標に変換
 5. ラベル・色・座標データをjson形式で返却
-
-
-https://drive.google.com/drive/folders/1sEKiTyiL8ImX4YbCul16CR-8fZjdl_Rq?usp=sharing
